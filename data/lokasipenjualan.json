@@ -1,0 +1,18 @@
+{
+  "tempat_ibadah": [
+    {
+      "id": 1,
+      "nama": "PT. Vanco Mas Sejahtera",
+      "jenis": "masjid",
+      "latitude": "-6.165358",
+      "longitude": "106.874543"
+    },
+    {
+      "id": 2,
+      "nama": "Masjid Fatimah",
+      "jenis": "masjid",
+      "latitude": "-6.144707",
+      "longitude": "106.816436"
+    }
+  ]
+}
