@@ -1,0 +1,18 @@
+{
+  "tentang": [
+    {
+      "id": 1,
+      "nama": "The VAS series range of Compact type cylindrical cased axial flow fan ",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/07/VAS-Series_result_result-300x217.png",
+      "kategori": "VAS Series",
+	  "deskripsi": "The VAS series range of Compact type cylindrical cased axial flow fan consists of eight nominal diameters 200, 250, 300, 350, 400, 450, 500 and 630mm respectively. The VAS series are designed for installation within rigid or flexible ducted ventilation systems and are suitable for use within a wide range of general ventilation applications such as industrial premises, warehouses, offices, car parks and workshop. Air volume performance ranges from 960 up to 8,400 m3/h. These series incorporate single phase 220V/50Hz and three phase 380V/50Hz asynchronous induction motors."
+    },
+    {
+      "id": 2,
+      "nama": "Centrifugal Cabinet Fan",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/07/VBUD-Series-180x180.png",
+      "kategori": "VBUD Series",
+	  "deskripsi": "The fan casing are manufactured from heavy gauge galvanized sheet steel. All models incorporate an inspection cover that can be removed to access the motor / impeller assembly without having to remove the complete casing from the ducting. The impeller is factory matched to the motor and the complete assembly is dynamically balanced 1940 standards. All models incorporate asynchronous induction motors in die cast aluminum."
+    }
+  ]
+}
