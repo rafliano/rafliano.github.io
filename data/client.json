@@ -1,0 +1,157 @@
+{
+  "client": [
+    {
+      "id": 1,
+      "nama": "Town Square Cilandak",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/22.png",
+      "kategori": "Mall",
+	  "deskripsi": ""
+    },
+	{
+      "id": 2,
+      "nama": "Emporium Pluit",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/21.png",
+      "kategori": "Mall",
+	  "deskripsi": ""
+    },
+	{
+      "id": 3,
+      "nama": "SidoMuncul",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/20.png",
+      "kategori": "Perusahaan",
+	  "deskripsi": ""
+    },
+	{
+      "id": 4,
+      "nama": "KFC",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/19.png",
+      "kategori": "Restoran",
+	  "deskripsi": ""
+    },
+	{
+      "id": 5,
+      "nama": "Summarecon Mall Bekasi",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/18.png",
+      "kategori": "Mall",
+	  "deskripsi": ""
+    },
+	{
+      "id": 6,
+      "nama": "Richeese Factory",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/17.png",
+      "kategori": "Restoran",
+	  "deskripsi": ""
+    },
+	{
+      "id": 7,
+      "nama": "J.CO",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/16.png",
+      "kategori": "Restoran",
+	  "deskripsi": ""
+    },
+	{
+      "id": 8,
+      "nama": "Gyu-Kaku",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/15.png",
+      "kategori": "Restoran",
+	  "deskripsi": ""
+    },
+	{
+      "id": 9,
+      "nama": "Summarecon Mall Serpong",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/14.png",
+      "kategori": "Mall",
+	  "deskripsi": ""
+    },
+	{
+      "id": 10,
+      "nama": "Mapo Galmaegi",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/13.png",
+      "kategori": "Restoran",
+	  "deskripsi": ""
+    },
+	{
+      "id": 11,
+      "nama": "Indofood",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/12.png",
+      "kategori": "Perusahaan",
+	  "deskripsi": ""
+    },
+	{
+      "id": 12,
+      "nama": "PLN",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/11.png",
+      "kategori": "Perusahaan",
+	  "deskripsi": ""
+    },
+	{
+      "id": 13,
+      "nama": "Holiday Inn",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/10.png",
+      "kategori": "Hotel",
+	  "deskripsi": ""
+    },
+	{
+      "id": 14,
+      "nama": "Green Pramuka Square",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/9.png",
+      "kategori": "Mall",
+	  "deskripsi": ""
+    },
+	{
+      "id": 15,
+      "nama": "Burger King",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/8.png",
+      "kategori": "Restoran",
+	  "deskripsi": ""
+    },
+	{
+      "id": 16,
+      "nama": "Han Gang",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/7.png",
+      "kategori": "Restoran",
+	  "deskripsi": ""
+    },
+	{
+      "id": 17,
+      "nama": "CGV Cinemas",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/6.png",
+      "kategori": "Bioskop",
+	  "deskripsi": ""
+    },
+	{
+      "id": 18,
+      "nama": "McDonald's",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/5.png",
+      "kategori": "Restoran",
+	  "deskripsi": ""
+    },{
+      "id": 19,
+      "nama": "Central Park",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/4.png",
+      "kategori": "Mall",
+	  "deskripsi": ""
+    },
+    {
+      "id": 20,
+      "nama": "Family Mart",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/3.png",
+      "kategori": "Supermarket",
+	  "deskripsi": ""
+    },
+	{
+      "id": 21,
+      "nama": "Trans Jakarta",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/2.png",
+      "kategori": "Mobilitas Publik",
+	  "deskripsi": ""
+    },
+	{
+      "id": 22,
+      "nama": "LRT Jakarta",
+      "gambar_url": "http://vancofan.com/wp-content/uploads/2019/11/1.png",
+      "kategori": "Mobilitas Publik",
+	  "deskripsi": ""
+    }
+  ]
+}
